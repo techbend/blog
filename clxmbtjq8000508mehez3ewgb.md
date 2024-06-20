@@ -34,7 +34,7 @@ In addition to my technical contributions, I have actively worked to expand the 
 
 My primary motivation for seeking a position on the PSF Board of Directors is to bring attention to the challenges faced by underrepresented and underserved communities within the Python ecosystem.
 
-1. **A**[**ccess to Ed**](https://wiki.python.org/moin/AliTavallaie)**ucation**: There are significant barriers to education for girls in Afghanistan. The denial of educational opportunities for these girls is a grave concern that needs to be addressed.
+1. **Access to Education**: There are significant barriers to education for girls in Afghanistan. The denial of educational opportunities for these girls is a grave concern that needs to be addressed.
     
 2. **Internet Access**: In countries like Iran, many people do not have reliable internet access due to both technical limitations and wide censorship, which severely limits their ability to learn and contribute to the Python community. The PSF can work with PyPI mirror providers to improve access in the MENA region, provide more offline shareable materials in local languages, and support local Python groups that may need OFAC licenses, making these accessible with the help of the PSF.
     
