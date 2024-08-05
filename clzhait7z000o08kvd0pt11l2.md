@@ -117,4 +117,4 @@ Here are some reasons why **Transmutate** is useful:
 
 Creating **Transmutate** helped me handle gRPC functions more easily. Instead of spending hours writing and managing Proto files, I can now focus on building features and solving problems.
 
-You can find **Transmutate** on [GitHub](https://github.com/tavallaie/transmutate). Feel free to check it out, and if you find it helpful, please [consid](https://github.com/tavallaie/transmutate)er starring the repository or contributing to the project. Your feedback is welcome, and I hope this library makes your work with gRPC easier, just as it did for me.
+You can find **Transmutate** on [GitHub](https://github.com/tavallaie/transmutate). Feel free to check it out, and if you find it helpful, please consider starring the repository or contributing to the project. Your feedback is welcome, and I hope this library makes your work with gRPC easier, just as it did for me.
